@@ -4,7 +4,7 @@ Built with Power BI | By Neeraj Raj Srinivasa Raju
 This project presents a complete analytical dashboard built using Sport England’s Active Lives Survey (2019–20 & 2020–21).
 The dashboard uncovers participation trends, demographic patterns, and regional variations to support data-driven decisions in sport development and policy planning.
 
-Built with a star-schema data model, optimized DAX, a custom UI theme, and intuitive navigation, this dashboard is designed for both technical and non-technical stakeholders.
+Built with a star-schema data model, optimised DAX, a custom UI theme, and intuitive navigation, this dashboard is designed for both technical and non-technical stakeholders.
 
 🧠 Project Description
 
@@ -26,7 +26,7 @@ Advanced DAX (CALCULATE, DIVIDE, SUMX, FILTER, SELECTEDVALUE, SWITCH) were used 
 📌 Dashboard Pages, Screenshots, and Code
 🟣 1. Summary Page
 
-The Summary Page provides an executive overview of participation across England. It includes the interactive map, gender and demographic breakdowns, and a written narrative summarizing the overall insights.
+The Summary Page provides an executive overview of participation across England. It includes the interactive map, gender and demographic breakdowns, and a written narrative summarising the overall insights.
 
 ![Summary Page](Summary-Page.png)
 
