@@ -27,7 +27,7 @@ Help & information pages for non-technical users
 
 High-level participation story summarising the most important insights.
 
-![Summary Page](screenshots/summary.jpg)
+![Summary Page](summary.jpg)
 
 ✔ 2. Respondents Profile
 
