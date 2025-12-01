@@ -1,20 +1,19 @@
 ## Dashboard Pages
 
 ### Summary Page
-![Summary Page](Summary-Page.jpg)
+![Summary Page](Summary-Page.png)
 
 ### Respondents Profile
-![Respondents Profile](Respondents-Profile.jpg)
+![Respondents Profile](Respondents-Profile.png)
 
 ### Regional and Local Authority Participation
-![Regional and Local Authority Participation](Regional-and-Local-Authority-Participation.jpg)
+![Regional and Local Authority Participation](Regional-and-Local-Authority-Participation.png)
 
 ### Demographics and Age group Insights
-![Demographics and Age group Insights](Demographics-and-Age-group-Insights.jpg)
+![Demographics and Age group Insights](Demographics-and-Age-group-Insights.png)
 
 ### Information Page
-![Information Page](Information-Page.jpg)
+![Information Page](Information-Page.png)
 
 ### Help Page
-![Help Page](Help-Page.jpg)
-
+![Help Page](Help-Page.png)
