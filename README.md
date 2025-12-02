@@ -66,7 +66,7 @@ Top 10 regions by participation
 This page focuses on geographic behaviour and regional analytics.
 It includes an interactive map, area vs national average, yearly change charts, and age-band participation by region.
 
-![Regional and Local Authority Participation](R & LA Participation.png)
+![Regional and Local Authority Participation](R-&-LA-Participation.png)
 
 🔍 Highlights:
 
