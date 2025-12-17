@@ -23,7 +23,8 @@ Insightful treemaps, maps, KPIs, and slicer-driven interactions
 
 Advanced DAX (CALCULATE, DIVIDE, SUMX, FILTER, SELECTEDVALUE, SWITCH) were used for all KPIs and interactive calculations.
 
-📌 Dashboard Pages, Screenshots, and Code
+📌 Dashboard Pages, Screenshots,
+
 🟣 1. Summary Page
 
 The Summary Page provides an executive overview of participation across England. It includes the interactive map, gender and demographic breakdowns, and a written narrative summarising the overall insights.
