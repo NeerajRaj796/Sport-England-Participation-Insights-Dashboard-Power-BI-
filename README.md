@@ -6,7 +6,7 @@ Dataset: Sport England – Active Lives Adult Survey
 
 Scenario
 
-Sport England’s Active Lives Survey provides a comprehensive national view of how adults across England engage in sport and physical activity. While the dataset contains rich insight, the raw survey outputs are large and not immediately decision-ready for stakeholders.
+Sport England’s Active Lives Survey provides a comprehensive national view of how adults across England engage in sport and physical activity. While the dataset contains rich insight.
 
 The objective of this project was to transform two survey years (2019–20 and 2020–21) into an interactive Business Intelligence dashboard capable of identifying participation growth, demographic distribution, and regional disparities. The goal was to build an insight tool that supports evidence-based planning and performance benchmarking rather than a static visual report.
 
