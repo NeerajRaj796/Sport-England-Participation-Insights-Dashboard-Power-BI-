@@ -1,4 +1,4 @@
-📊 CASE STUDY: Sport England Active Lives Participation Dashboard (2019–20 vs 2020–21)
+📊 CASE STUDY:England Active Lives Participation Dashboard (2019–20 vs 2020–21)
 
 Author: Neeraj Raj Srinivasa Raju
 Tools: Power BI (DAX & Data Modelling), Excel (Validation), SQL (Text Standardisation)
