@@ -90,7 +90,7 @@ Data preparation addressed structural mismatches between years. Geography labels
 
 A star schema model was implemented to preserve data integrity and prevent double counting. Advanced DAX functions including CALCULATE, DIVIDE, SUMX, FILTER, SELECTEDVALUE, SWITCH, VAR/RETURN, and time intelligence were used to build dynamic KPIs and year-on-year comparisons.
 
-📊 Analyze
+📊 Analyse
 
 The analysis identified a significant national increase in participation from 569,000 respondents in 2019–20 to 882,000 in 2020–21, representing a growth of 313,000 participants (55% YoY).
 
